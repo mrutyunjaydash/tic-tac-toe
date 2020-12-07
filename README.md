@@ -1,4 +1,4 @@
-# React Tic Tac Toe
+# Tic Tac Toe Game
 Minimalistic Tic Tac Toe game built with React. AI is driven by a minimax algorithm.
 
 ## Usage
