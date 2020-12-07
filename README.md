@@ -4,7 +4,7 @@ Minimalistic Tic Tac Toe game built with React. AI is driven by a minimax algori
 ## Usage
 
 * Clone the repository
-`https://github.com/LordMathis/react-tic-tac-toe.git`
+`https://github.com/mrutyunjaydash/tic-tac-toe.git`
 
 * Install
 `npm install`
